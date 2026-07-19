@@ -1,4 +1,4 @@
-# 📚 Research Paper Search & Summarization Agent
+# 📚 Final Project - CBSOT
 
 An AI-powered application that enables users to search, retrieve, and summarize research papers using **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**. The project leverages modern AI frameworks to provide accurate, context-aware summaries and improve the research workflow.
 
